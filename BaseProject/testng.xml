@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="mastbit.exchange.scripts.TC3_WalletsHistory"/>
+      <!-- <class name="mastbit.exchange.scripts.TC3_WalletsHistory"/>
       <class name="mastbit.exchange.scripts.TC13_ForgotPassword"/>
       <class name="mastbit.exchange.scripts.TC12_Graph"/>
       <class name="mastbit.exchange.scripts.TC4_ProfileWithKYC"/>
@@ -14,9 +14,10 @@
       <class name="mastbit.exchange.scripts.TC11_Api"/>
       <class name="mastbit.exchange.scripts.TC9_Security"/>
       <class name="mastbit.exchange.scripts.TC8_WalletTransaction"/>
-      <class name="mastbit.exchange.scripts.TC1_BasicFunctionalityCheck"/>
-      <class name="mastbit.exchange.scripts.TC7_YourBrokerage"/>
-      <class name="mastbit.exchange.scripts.TC6_ProfileWithLevels"/>
+    -->  
+     <class name="mastbit.exchange.scripts.TC1_BasicFunctionalityCheck"/>
+     <!--  <class name="mastbit.exchange.scripts.TC7_YourBrokerage"/>
+      <class name="mastbit.exchange.scripts.TC6_ProfileWithLevels"/> -->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
